@@ -9,7 +9,10 @@ Inspired by the sucess of Continuous Wavelet Transformation in signal processing
 This file downloads information of all the stocks in the Chinese Stock Market and split the whole sample into two train and test data.
 ### Comparison_of_FFT_STFT_and_CWT.ipynb
 This file construct two signals and compared the Fourier Transformation, Short-time Fourier Transformation and Continuous Wavelet Transformation.
-![Original Signal and FTT](https://github.com/RuichongWang/LSTM-with-Continuous-Wavelet-Transformation-in-Time-Series-Prediction/blob/main/img/Original%20Signal%20and%20FTT.png?raw=true)
-![STFT & CWT](https://github.com/RuichongWang/LSTM-with-Continuous-Wavelet-Transformation-in-Time-Series-Prediction/blob/main/img/STFT%20%26%20CWT.png?raw=true)
+<p align="middle">
+  <img src="img/Original Signal and FTT.png" width="400"/>
+  <img src="img/STFT & CWT.png" width="400"/>
+</p>
+
 ### Training.py
 This file construct a simple LSTM Neural Network and compared the performance of CWT signal and the original signal.
