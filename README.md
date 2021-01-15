@@ -10,8 +10,8 @@ This file downloads information of all the stocks in the Chinese Stock Market an
 ### Comparison_of_FFT_STFT_and_CWT.ipynb
 This file construct two signals and compared the Fourier Transformation, Short-time Fourier Transformation and Continuous Wavelet Transformation.
 <p align="middle">
-  <img src="img/Original Signal and FTT.png" width="400"/>
-  <img src="img/STFT & CWT.png" width="400"/>
+  <img src="img/Original Signal and FTT.png" height="250"/>
+  <img src="img/STFT & CWT.png" height=250"/>
 </p>
 
 ### Training.py
