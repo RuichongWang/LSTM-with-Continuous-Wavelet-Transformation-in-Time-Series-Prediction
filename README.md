@@ -1,6 +1,6 @@
 # LSTM with Continuous Wavelet Transformation in Time Series Prediction
 ## ***Ruichong Wang***
-## This is my Undergraduste Final Thesis
+## This is my Undergraduate Final Thesis
 ## Thanks Prof. Ming Yi @ *Huazhong University of Science and Technology* for support and encouragement.
 Inspired by the sucess of Continuous Wavelet Transformation in signal processing, this project applies CWT to transform the 1-d time series data into 2-d time-frequency data to extract a more explicit long-short term pattern. This method reduces MSE by 17.5%, averaged on three datasets.
 ## Repository contents
